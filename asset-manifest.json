@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/demo/static/css/main.415702e8.css",
-    "main.js": "/demo/static/js/main.63b8d6c1.js",
-    "static/css/250.ba590649.chunk.css": "/demo/static/css/250.ba590649.chunk.css",
-    "static/js/250.929689bb.chunk.js": "/demo/static/js/250.929689bb.chunk.js",
-    "static/css/796.699ea290.chunk.css": "/demo/static/css/796.699ea290.chunk.css",
-    "static/js/796.32b31f5c.chunk.js": "/demo/static/js/796.32b31f5c.chunk.js",
-    "static/media/userFoto.webp": "/demo/static/media/userFoto.22c284b1bfc02acd8ad3.webp",
-    "static/media/Spinner-1s-200px.svg": "/demo/static/media/Spinner-1s-200px.30948b56c2521bff26ac68a9a01a4bb3.svg",
-    "index.html": "/demo/index.html",
-    "main.415702e8.css.map": "/demo/static/css/main.415702e8.css.map",
-    "main.63b8d6c1.js.map": "/demo/static/js/main.63b8d6c1.js.map",
-    "250.ba590649.chunk.css.map": "/demo/static/css/250.ba590649.chunk.css.map",
-    "250.929689bb.chunk.js.map": "/demo/static/js/250.929689bb.chunk.js.map",
-    "796.699ea290.chunk.css.map": "/demo/static/css/796.699ea290.chunk.css.map",
-    "796.32b31f5c.chunk.js.map": "/demo/static/js/796.32b31f5c.chunk.js.map"
+    "main.css": "/Yoga-Social/static/css/main.415702e8.css",
+    "main.js": "/Yoga-Social/static/js/main.41cf68fe.js",
+    "static/css/250.ba590649.chunk.css": "/Yoga-Social/static/css/250.ba590649.chunk.css",
+    "static/js/250.929689bb.chunk.js": "/Yoga-Social/static/js/250.929689bb.chunk.js",
+    "static/css/796.699ea290.chunk.css": "/Yoga-Social/static/css/796.699ea290.chunk.css",
+    "static/js/796.32b31f5c.chunk.js": "/Yoga-Social/static/js/796.32b31f5c.chunk.js",
+    "static/media/userFoto.webp": "/Yoga-Social/static/media/userFoto.22c284b1bfc02acd8ad3.webp",
+    "static/media/Spinner-1s-200px.svg": "/Yoga-Social/static/media/Spinner-1s-200px.30948b56c2521bff26ac68a9a01a4bb3.svg",
+    "index.html": "/Yoga-Social/index.html",
+    "main.415702e8.css.map": "/Yoga-Social/static/css/main.415702e8.css.map",
+    "main.41cf68fe.js.map": "/Yoga-Social/static/js/main.41cf68fe.js.map",
+    "250.ba590649.chunk.css.map": "/Yoga-Social/static/css/250.ba590649.chunk.css.map",
+    "250.929689bb.chunk.js.map": "/Yoga-Social/static/js/250.929689bb.chunk.js.map",
+    "796.699ea290.chunk.css.map": "/Yoga-Social/static/css/796.699ea290.chunk.css.map",
+    "796.32b31f5c.chunk.js.map": "/Yoga-Social/static/js/796.32b31f5c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.415702e8.css",
-    "static/js/main.63b8d6c1.js"
+    "static/js/main.41cf68fe.js"
   ]
 }
